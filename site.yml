@@ -1,0 +1,6 @@
+---
+- user: root
+  hosts: seaweedfs
+
+  roles:
+  - seaweedfs
